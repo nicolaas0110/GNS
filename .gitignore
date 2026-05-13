@@ -1,18 +1,9 @@
-# Archivos de macOS
 .DS_Store
-
-# Entornos virtuales (por si alguna vez usas venv en lugar de conda)
 env/
 venv/
 __pycache__/
-
-# Datasets y modelos pesados (¡NUNCA subir a GitHub!)
 datasets/
 models/
-rollouts/
 *.pt
 *.pth
 *.vtu
-
-# Repo de Geoelements original (opcional, si decides no trackear sus cambios)
-gns-sample/
