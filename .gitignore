@@ -9,6 +9,7 @@ __pycache__/
 # Datasets y modelos pesados (¡NUNCA subir a GitHub!)
 datasets/
 models/
+rollouts/
 *.pt
 *.pth
 *.vtu
