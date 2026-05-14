@@ -1,9 +1,4 @@
-.DS_Store
-env/
-venv/
-__pycache__/
 datasets/
-models/
-*.pt
-*.pth
-*.vtu
+rollouts/
+__pycache__/
+.DS_Store
